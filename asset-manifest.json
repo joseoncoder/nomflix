@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/nomflix/static/js/main.f7ff89a0.chunk.js",
-    "main.js.map": "/nomflix/static/js/main.f7ff89a0.chunk.js.map",
+    "main.js": "/nomflix/static/js/main.7595071f.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.7595071f.chunk.js.map",
     "runtime-main.js": "/nomflix/static/js/runtime-main.a658bcd6.js",
     "runtime-main.js.map": "/nomflix/static/js/runtime-main.a658bcd6.js.map",
     "static/js/2.cfb81249.chunk.js": "/nomflix/static/js/2.cfb81249.chunk.js",
     "static/js/2.cfb81249.chunk.js.map": "/nomflix/static/js/2.cfb81249.chunk.js.map",
     "index.html": "/nomflix/index.html",
-    "precache-manifest.6a4d5dd553e94f6d33863a0f338a05c4.js": "/nomflix/precache-manifest.6a4d5dd553e94f6d33863a0f338a05c4.js",
+    "precache-manifest.7e0175d2f5993a25c50117f927a4fd84.js": "/nomflix/precache-manifest.7e0175d2f5993a25c50117f927a4fd84.js",
     "service-worker.js": "/nomflix/service-worker.js",
     "static/js/2.cfb81249.chunk.js.LICENSE.txt": "/nomflix/static/js/2.cfb81249.chunk.js.LICENSE.txt",
     "static/media/joseon.png": "/nomflix/static/media/joseon.4330f146.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.a658bcd6.js",
     "static/js/2.cfb81249.chunk.js",
-    "static/js/main.f7ff89a0.chunk.js"
+    "static/js/main.7595071f.chunk.js"
   ]
 }
